@@ -4,5 +4,6 @@ public class GitTest {
         System.out.println("gitTest2 Back up Commit");
         System.out.println("gitTest3 Master Commit");
         System.out.println("gitTest3 Back up Commit");
+        System.out.println("gitTest4 git_back_branck commit 1");
     }
 }
